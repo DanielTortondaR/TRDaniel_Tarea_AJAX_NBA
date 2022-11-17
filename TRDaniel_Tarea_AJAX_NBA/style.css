@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(35, 35, 141) ;
+    color: whitesmoke;
+}
+
+.tabla{
+    border: white solid 2px;
+    padding: 2%;
+    margin-left: 2%;
+    margin: 20px;
+}
+th{
+    background-color: black;
+}
